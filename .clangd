@@ -1,0 +1,5 @@
+CompileFlags:
+  CompilationDatabase: D:\workspaces\ESP32-P4\mouse_teclado\build
+  Remove: [-m*, -f*]
+  Add: [-isystem, 'C:/Espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/picolibc/include',
+    -isystem, 'C:/Espressif/tools/riscv32-esp-elf/esp-15.2.0_20251204/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/15.2.0/include']

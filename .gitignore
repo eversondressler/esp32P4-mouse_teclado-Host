@@ -1,0 +1,9 @@
+# Saída de build do ESP-IDF
+build/
+
+# Componentes baixados pelo IDF Component Manager (recriados a partir do dependencies.lock)
+managed_components/
+
+# Backups do menuconfig
+sdkconfig.old
+sdkconfig.bak

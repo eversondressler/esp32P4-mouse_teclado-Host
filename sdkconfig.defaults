@@ -1,0 +1,8 @@
+# This file was generated using idf.py save-defconfig. It can be edited manually.
+# Espressif IoT Development Framework (ESP-IDF) Project Minimal Configuration
+#
+CONFIG_USB_HOST_HUBS_SUPPORTED=y
+
+# Placa com ESP32-P4 revisão v1.x (suporte a rev < 3.0 é exclusivo)
+CONFIG_ESP32P4_SELECTS_REV_LESS_V3=y
+CONFIG_ESP32P4_REV_MIN_100=y
